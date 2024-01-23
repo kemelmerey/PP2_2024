@@ -8,4 +8,4 @@ x
  z 
  "Orange"
 """
-x,y,z="Orange"
+x=y=z="Orange"
